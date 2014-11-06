@@ -18,7 +18,7 @@ npm install noop2
 var noop = require('noop2');
 
 noop();
-// => undefined
+// nothing happened
 ```
 
 ## Why?
