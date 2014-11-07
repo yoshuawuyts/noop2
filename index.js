@@ -1,5 +1,2 @@
-/**
- * No operation.
- * @api public
- */
+// No operation
 module.exports = Function.prototype;
