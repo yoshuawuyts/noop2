@@ -1,13 +1,2 @@
-/**
- * Expose `noop()`.
- */
-
-module.exports = noop;
-
-/**
- * No operation.
- *
- * @api public
- */
-
-function noop() {};
+// No operation
+module.exports = Function.prototype;
