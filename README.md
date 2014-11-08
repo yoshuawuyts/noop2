@@ -29,6 +29,7 @@ consistent. So here you have it.
 
 ## See also
 - [the original noop][noop1]
+- [nop][nop]
 
 ## License
 [MIT](https://tldrlegal.com/license/mit-license)
@@ -43,3 +44,4 @@ consistent. So here you have it.
 [downloads-url]: https://npmjs.org/package/noop2
 
 [noop1]: http://ghub.io/noop
+[nop]: https://github.com/supershabam/nop
