@@ -30,6 +30,7 @@ consistent. So here you have it.
 ## See also
 - [the original noop][noop1]
 - [nop][nop]
+- [no-op][no-op]
 
 ## License
 [MIT](https://tldrlegal.com/license/mit-license)
@@ -45,3 +46,4 @@ consistent. So here you have it.
 
 [noop1]: http://ghub.io/noop
 [nop]: https://github.com/supershabam/nop
+[no-op]: https://github.com/mattdesl/no-op
