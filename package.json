@@ -1,6 +1,6 @@
 {
   "name": "noop2",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "No operation as a module™",
   "main": "index.js",
   "scripts": {
