@@ -1,13 +1,8 @@
-/**
- * Expose `noop()`.
- */
+module.exports = noop
 
-module.exports = noop;
+// no operation
+// null -> null
+function noop() {}
 
-/**
- * No operation.
- *
- * @api public
- */
-
-function noop() {};
+// call noop to satisfy test cov suites
+noop()
