@@ -3,6 +3,7 @@
   "version": "2.0.0",
   "description": "No operation as a module™",
   "main": "index.js",
+  "typings": "index.d.ts",
   "scripts": {
     "test": "make test"
   },
